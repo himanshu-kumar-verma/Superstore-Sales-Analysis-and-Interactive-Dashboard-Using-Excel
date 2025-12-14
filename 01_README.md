@@ -13,7 +13,7 @@
 
 
 ## 🎯 Brief Summary
-An end-to-end data analysis project that explores Superstore sales data to uncover business insights using Excel based data cleaning, pivot tables, and an interactive dashboard.
+An end to end data analysis project that explores Superstore sales data to uncover business insights using Excel based data cleaning, pivot tables, and an interactive dashboard.
 
 
 ## 📌 Overview
