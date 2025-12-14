@@ -1,6 +1,18 @@
 # 📊 Superstore Sales Analysis & Dashboard
 
-### Brief Summary
+
+**Internship Project at:** Alfido Tech.  
+**Role:** Data Analyst Intern  
+**Duration:** 1 Month
+
+## 🏢 Project Context
+
+- This project was completed as part of a **Data Analyst Internship** at **Alfido Tech**
+- The analysis and dashboard were developed for learning and internal evaluation purposes.
+- All insights and visualizations were created by the author using publicly available data.
+
+
+## 🎯 Brief Summary
 An end-to-end data analysis project that explores Superstore sales data to uncover business insights using Excel based data cleaning, pivot tables, and an interactive dashboard.
 
 
@@ -164,10 +176,9 @@ An end-to-end data analysis project that explores Superstore sales data to uncov
 - Automate data refresh and reporting
 
 
-## 👤 Author & Contact
+## 👤 Author & Internship Details
 
 **Himanshu Kumar Verma**  
-Data Analyst | Excel | Power BI | SQL | Excel Dashboard  
-
-- LinkedIn: https://www.linkedin.com/in/himanshu-kumar-verma2003profile  
+Data Analyst Intern – Alfido Tech 
 - Email: himanshukumarverma719@gmail.com
+- LinkedIn: https://www.linkedin.com/in/himanshu-kumar-verma2003
